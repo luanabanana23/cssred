@@ -1,0 +1,401 @@
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/holidays/hol-1/hol18.cur), auto !important;} /* End https://www.cursors-4u.com */
+body {
+    background-image: url(https://64.media.tumblr.com/42b1f7c11e8d1838f4e157d1027d9171/c235d15bf865dd5c-36/s2048x3072/945e41b026780dec5cc6ed107908f0d25592ce5c.jpg);
+    text-align: center;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: contain;
+    font-family: emoji;
+}
+
+.rightHead {
+   background: #fc90;
+   color: #cc663300;
+   padding-left: 4px;
+   font-size: 0px;
+}
+
+.blurbs {
+    margin-bottom: 20px;
+    background-color: #00000000;
+    border: solid;
+    border-color: black;
+    color: white;
+    padding-bottom: 30px;
+    padding-inline: 30px;
+    padding-top: 30px;
+    background-image: url(https://i.pinimg.com/originals/86/c1/60/86c1609d80a6e0f575ec6db17687d3cf.gif);
+    background-attachment: fixed;
+    /* background-position: top; */
+    /* background-size: contain; */
+    box-shadow: 0 0 18px 9px black;
+}
+
+#commentInput {
+   width: calc( 100% - 6px );
+   margin: 0;
+   margin-top: 10px;
+   height: 100px;
+   background-image: url(https://media1.tenor.com/images/ca4cbc96beb55bdafff7350b0a72b59f/tenor.gif?itemid=5155283);
+}
+
+.tableLeft {
+   width: 25%;
+   padding: 10px;
+   vertical-align: top;
+   overflow: hidden;
+   background-color: #000000;
+}
+
+.tableRight {
+   width: 75%;
+   background-color: #6f0f09;
+   padding: 10px;
+   vertical-align: top;
+   overflow-wrap: anywhere;
+   color: white;
+}
+
+.tableLeft img {
+   max-width: calc(100%);
+   image-orientation: from-image;
+   mix-blend-mode: luminosity;
+}
+
+.topLeft {
+    float: left;
+    max-width: 370px;
+    padding: 10px;
+    background-color: #ad2c2300;
+}
+
+p {
+    margin: 0;
+    padding-block: 20px;
+    background-color: #00000092;
+    text-shadow: 0 0 5px black;
+    border: solid #6f0f09;
+    padding-inline: 20px;
+    font-size: 17px;
+}
+
+#userWall {
+   margin-top: 10px;
+   word-wrap: break-word;
+   display: inline-block;
+   overflow-y: scroll;
+   width: 100%;
+   height: 400px;
+}
+
+
+td.shortRight {
+    display: table-cell;
+    vertical-align: inherit;
+    background-color: #6f0f09;
+    padding-inline: 10px;
+    color: white;
+    text-shadow: 0 0 7px black;
+}
+
+div#header {
+   all: unset;
+   font-family: Arial;
+   font-size: 15px;
+   background: #000000;
+   color: #fff;
+   position: fixed;
+   width: calc( 100% - 15px );
+   height: 22px;
+   padding: 5px;
+   left: 0px;
+   top: 0px;
+   margin-bottom: 40px;
+   border-bottom: 1px solid black;
+   padding-left: 10px;
+   padding-top: 6px;
+   overflow: hidden;
+   z-index: 300;
+}
+
+div#hSub {
+    all: unset;
+    font-family: Arial;
+    font-size: 15px;
+    background: #6f0f09;
+    font-size: small;
+    margin: 0px;
+    padding: 5px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-left: 10px;
+    padding-top: 4px;
+    position: fixed;
+    left: 0;
+    top: 34px;
+    width: calc(100% - 15px );
+    color: #000;
+    height: 15px;
+    z-index: 300;
+    border: solid;
+}
+
+a:-webkit-any-link {
+   color: #ad2c23;
+   cursor: pointer;
+   text-decoration: underline;
+}
+
+b {
+   font-weight: bold;
+   color: white;
+}
+
+.player {
+    padding: 4px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: transparent;
+    color: #fff;
+    width: calc(100% - 10px );
+    border: none;
+}
+
+#sMsg {
+    background-repeat: no-repeat;
+    color: black;
+    width: 114px;
+    height: 29px;
+}
+
+#report {
+   background-repeat: no-repeat;
+   background-image: url(img/icon_rank_user4.gif);
+   color: black;
+}
+
+#add {
+   background-repeat: no-repeat;
+   background-image: url(img/addFriendIcon.gif);
+   color: black;
+}
+
+#block {
+   background-repeat: no-repeat;
+   background-image: url(img/blockuser.gif);
+   color: black;
+}
+
+.blogCard .avatar {
+   width: 200px;
+   margin-right: 0px;
+}
+
+div.topLeft.blogCard {
+   float: left;
+   width: 15%;
+   padding: 10px;
+   background-color: #a9a9a9;;
+   padding-top: 86px;
+   position: absolute;
+}
+
+div.topLeft.blogCard::after {
+   content: none;
+   display: block;
+   position: center;
+   width: 100%;
+   height: 1666px;
+   max-width: 370px;
+   background-position: 0 0;
+   background-size: 100% 100%;
+   background-image: url(https://64.media.tumblr.com/32610d6…/d4b21ee6ea6c2029-4e/s1280x1920/069101f….png);
+}
+
+.blogs, .blog {
+    margin-bottom: 20px;
+    color: white;
+    border: solid;
+    background-image: url(https://media1.tenor.com/images/f0f94543f4aa7424686e5429e9f62a49/tenor.gif?itemid=21964127);
+    background-position: center;
+    border-color: #701913;
+    text-shadow: 0 0 5px black;
+}
+
+div.box.fwiends {
+    overflow: hidden;
+    background-image: url(https://i.pinimg.com/originals/b5/66/af/b566af8bab8557bafb92a77717ab70f7.gif);
+    background-size: cover;
+}
+
+span#hUp::before {
+   content: “be kind!”;
+   font-size: 13px;
+   animation-duration: 0.3s;
+   animation-timing-function: ease;
+   animation-delay: 0s;
+   animation-iteration-count: infinite;
+   animation-direction: normal;
+   animation-fill-mode: none;
+   animation-play-state: running;
+   animation-name: blinkingTextRed;
+   font-family: monospace;
+}
+
+.extended {
+   border: 1px solid #000;
+   text-align: center;
+   margin-bottom: 20px;
+   margin-top: 15px;
+   background-color: #6f0f09;
+   color: #fcfefc;
+}
+
+.player::before {
+    content: "";
+    display: block;
+    position: relative;
+    height: 234px;
+    max-width: 370px;
+    background-position: 0 0;
+    background-size: 100% 100%;
+    background-image: url(https://animesher.com/orig/0/93/939/9392/animesher.com_nana-nana-osaki-gif-image-939217.gif);
+}
+
+audio {
+    /* border: solid 1px #fff; */
+    /* padding: 2px; */
+    margin-bottom: 0px;
+    margin-top: 5px;
+    width: 55%;
+    height: 30px;
+    /* background: #fff; */
+    outline: none;
+    margin-bottom: -3px;
+    /* filter: sepia(0%) saturate(100%) grayscale(0) contrast(100%) invert(100%); */
+}
+
+.songName {
+    margin-top: 0px;
+    font-size: 15px;
+    background-color: #000000b8;
+    padding-inline: 5px;
+    text-shadow: 2px 2px 0px black;
+}
+
+div.topLeft::after {
+    content: "";
+    display: block;
+    position: center;
+    width: 100%;
+    height: 2308px;
+    max-width: 370px;
+    background-position: 0 0;
+    background-size: 100% 100%;
+    background-image: url(https://64.media.tumblr.com/07453453e2f01dafbf1d6e39a148e88b/0fab7ae5e0315752-66/s2048x3072/3384f11636af90fbe846e16315bbac3586ac1904.png);
+}
+
+.blog p {
+    margin: 1em;
+    color: white;
+}
+
+h4 {
+    color: white;
+    margin-bottom: 0px;
+    font-size: 20px;
+    text-shadow: 0 0 6px black;
+    background-color: #701913;
+    font-family: cursive;
+}
+
+.topRight>.box.blurbs>.blogs>div>b::after {
+    font-size: 20px;
+    content: "pls interact with my blogs a bitch is bored";
+    text-shadow: 0 0 5px black;
+}
+
+.topRight>.box.blurbs>.blogs>div>b {
+    font-size: 0px;
+}
+
+.boxHead {
+    background: #000000;
+    color: white;
+    padding: 3px;
+    padding-bottom: 4px;
+    padding-left: 6px;
+    text-shadow: 0 0 6px black;
+    font-family: cursive;
+    font-size: 17px;
+}
+
+.boxInfo {
+    border: 1px solid #000;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: #a3a3a3;
+}
+
+h2#name.uName {
+    color: white;
+    background-color: black;
+    border-color: #a3a3a3;
+}
+
+.url {
+    border: solid 2px black;
+    padding: 2px;
+    background-image: url(https://i.pinimg.com/originals/b5/66/af/b566af8bab8557bafb92a77717ab70f7.gif);
+}
+
+.fwiendCounter>b {
+    font-size: 0px;
+}
+
+.fwiendCount {
+    color: #ad2c23;
+    font-size: 15px;
+}
+
+.fwiendCounter>b>.uName {
+    font-size: 0px;
+}
+
+.fwiendCounter>b::after {
+    content: "    lovers";
+    font-size: 15px;
+}
+
+.avatar {
+    width: 200px;
+    margin-right: 20px;
+    cursor: zoom-in;
+    image-orientation: from-image;
+    box-shadow: 0 0 20px 2px black;
+}
+
+#container:before {
+    content: "";
+    display: block;
+    height: 100px;
+    background-image: url(https://64.media.tumblr.com/03b617b4280d73a6b9bdca1a7cb666bb/cface6ff12187cb1-04/s1280x1920/ad8e34ec82f54818b9dd840f2d5904d8d38b3fde.gifv);
+    background-position: center;
+    background-size: cover;
+    margin-bottom:
+}
+
+span#credo {
+    font-size: 0px;
+}
+
+span#credo::after {
+    content: "do you believe in forever? i don't even believe in tomorrow";
+    font-size: 15px ;
+}
+
+.blog p {
+    margin: 1em;
+    color: white;
+    background-color: black;
+}
